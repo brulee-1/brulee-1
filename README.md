@@ -2,7 +2,7 @@ Hi, I'm brulee
 
 I program as a hobby.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brulee-1&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brulee-1&theme=tokyonight&show_icons=true)
 ## Tech Stack
 
 - **Languages**: Python
